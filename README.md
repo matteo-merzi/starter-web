@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work. Adding a line for rebasing example, then more changes from myfreature branch too.
+Updating for emergency fix after stashing.
 
 ## Introduction
 
